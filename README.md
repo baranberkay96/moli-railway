@@ -1,6 +1,6 @@
 # Deploy and Host Moli with Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/moli-v11-headless-browser-for-ai-agents?referralCode=20H68q)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/moli-v11-headless-browser-for-ai-agents-?referralCode=20H68q)
 
 Moli is an open-source headless browser for AI agents, written in Rust by Lexmount. One endpoint speaks CDP, WebDriver Classic and WebDriver BiDi, so Playwright, Puppeteer, Selenium and browser-use connect to it like a remote Chrome. This template runs Moli 1.1.22 always on, behind a token.
 
